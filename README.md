@@ -1,5 +1,3 @@
-<kbd><img src="https://www.educacao.sp.gov.br/wp-content/uploads/2017/12/30981811591_252bec049e_o.jpg" width=1000 height=350></kbd>
-
 <h1>
     <p align="center">
         Biblioteca de São Paulo: Avaliações dos Usuários no Google 📚
